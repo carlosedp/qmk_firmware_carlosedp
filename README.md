@@ -11,3 +11,5 @@ The files were collected and fixed to provide a working QMK firmware for the Epo
 or
 
     qmk compile -kb epomaker/th40 -km default
+
+A precompiled bin file and the VIA mapping are available in the `releases` section of this repository.
