@@ -8,4 +8,5 @@ EEPROM_CUSTOM = custom
 NO_USB_STARTUP_CHECK = yes
 BLUETOOTH_CUSTOM = yes
 
+ENCODER_MAP_ENABLE = yes
 DEBOUNCE_TYPE = asym_eager_defer_pk
