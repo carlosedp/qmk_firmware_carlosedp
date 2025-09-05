@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "*.app.src": "erlang",
+        "*.core": "yaml",
+        "*.mk.j2": "makefile",
+        "*.pdc": "sdc",
+        "*.scala.html": "scala",
+        "*.tcl.j2": "tcl",
+        "*.yaml": "yaml",
+        "*.yml": "yaml",
+        "**/docker-compose.yml": "yaml",
+        "*makefile.j2": "makefile",
+        "*rc": "shellscript",
+        "Dockerfile-*": "dockerfile",
+        "Dockerfile.*": "dockerfile",
+        "inventory*": "ini",
+        "rdr_common.h": "c"
+    }
+}
