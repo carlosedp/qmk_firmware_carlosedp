@@ -12,3 +12,8 @@
 #define EECONFIG_KB_DATA_SIZE 1
 
 #define TRANSIENT_EEPROM_SIZE 4096
+
+// Custom configuration
+#define DEBOUNCE 7
+
+#define TAPPING_TERM 130
